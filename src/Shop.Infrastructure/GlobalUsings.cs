@@ -1,0 +1,9 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Shop.Domain.Entities.Authentiaction;
+global using Shop.Domain.Entities.Business;
+global using Shop.Domain.Common.Base;
+global using System.Reflection;
+global using Shop.Infrastructure.Common.Extensions;
+global using Shop.Infrastructure.Databases;
+global using Shop.Application.Contract;
